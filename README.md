@@ -1,6 +1,8 @@
 # NetworkPacketCapture
 Network packet capture (libpcap)
 
+- Commands -> make all
+
 - Uygulama argümanları -d(device) -f(file) -s(filter) expression
 
 Argümanlar: 
